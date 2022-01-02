@@ -1,0 +1,22 @@
+nav {
+	height: 6em;
+	background-color: #77bffd;
+}
+
+ul#routes-list {
+	justify-content: space-evenly;
+	display: flex;
+	height: 100%;
+}
+
+li {
+	display: inline;
+	justify-content: space-around;
+	text-align: center;
+	vertical-align: middle;
+}
+
+a {
+	display: inline;
+	vertical-align: middle;
+}
